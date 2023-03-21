@@ -1,0 +1,10 @@
+.hero {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  width: 1400px;
+  height: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* font-family: "Poppins", sans-serif; */
+}
